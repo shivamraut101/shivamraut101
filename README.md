@@ -87,14 +87,6 @@ const shivam = {
 
 ---
 
-## 📈 Contributions
-
-<p align="center">
-  <img src="./contributions.svg" width="100%" alt="972 contributions in the last year" />
-</p>
-
----
-
 ## 🌟 Featured project
 
 <table>
